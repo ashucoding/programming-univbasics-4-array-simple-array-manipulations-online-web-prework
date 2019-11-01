@@ -26,5 +26,8 @@ end
     array.concat (arg2)
   end
   
-  
+  def usin_insert (array,element)
+    array.insert ("element")
+  end
+    
     
