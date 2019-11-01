@@ -33,5 +33,9 @@ end
   def using_uniq (array)
     array.uniq(n)
     
+    def using_flatten (array)
+      array.flatten (string)
+    end
+    
     
     
